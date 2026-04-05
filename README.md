@@ -51,19 +51,19 @@ Código
 ## Capturas
 
 ### Estructura inicial
-![Estructura inicial del proyecto](images/estructura_inicial.png)
+![Estructura inicial del proyecto](Imagenes/Estructura_inicial.png)
 
 ### VS Code
-![Proyecto abierto en VS Code](images/VS_CODE.png)
+![Proyecto abierto en VS Code](Imagenes/VS_CODE.png)
 
 ### Git instalado
-![Git instalado en el sistema](images/Git_instalado.png)
+![Git instalado en el sistema](Imagenes/Git_instalado.png)
 
 ### Ping Sweep
-![Ping Sweep en 10.190.147.0/24](images/ping_sweep.png)
+![Ping Sweep en 10.190.147.0/24](Imagenes/ping_sweep.png)
 
 ### Port Scan
-![Escaneo de puertos en localhost](images/port_scan.png)
+![Escaneo de puertos en localhost](Imagenes/port_scan.png)
 
 ## Estado del Proyecto
 - Fase 1: Organización del equipo y repositorio (completada)  
