@@ -1,5 +1,2 @@
 scapy
 argparse
-# Librerías para el avance de Orlando
-threading
-queue
