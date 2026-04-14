@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 scapy
 argparse
+=======
+flask
+scapy
+rich
+>>>>>>> fe6f150 (Entrega final proyecto Network Scanner: interfaz web, mejoras y documentación completa)
